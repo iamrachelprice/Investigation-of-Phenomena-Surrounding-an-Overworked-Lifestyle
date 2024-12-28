@@ -1,8 +1,5 @@
 # Investigation-of-Phenomena-Surrounding-an-Overworked-Lifestyle
-A statistical analysis involving a cross-sectional survey and various qualtitative and quantitative techniques to determine factors leading to an overworked lifestyle.
-
-
-Project Abstract: 
+A statistical analysis involving a cross-sectional survey and various qualtitative and quantitative techniques to determine factors leading to an overworked lifestyle. The project abstract, as well as a description of the files uploaded, are included below.
 
 Overproductivity is an epidemic among Americans. Today, our lives are faster, busier, and more stressful than ever before. Previous researchers have found links between three phenomena (addictive social media usage (SMA), toxic productivity within a workplace (TP), and Imposter Syndrome (IS)) and perceived work overload (PWO), a predictor of an unbalanced work-rest relationship. This finding from pre-existing research sparked the goal of this research study: to find the “perfect storm” that connects each of the three aforementioned phenomena to both each other and PWO among respondents within the greater Chicagoland area. 
 
